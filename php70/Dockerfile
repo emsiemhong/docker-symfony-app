@@ -2,7 +2,7 @@
 # symfony-app
 #
 
-FROM emsiemhong/docker-php-app:php70
+FROM siemhong/docker-php-app:php70
 MAINTAINER Thomas BARTHELEMY <thomas.barthelemy@webridge.asia>
 
 RUN apt-get update
